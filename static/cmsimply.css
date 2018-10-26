@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  background-image:url();
   padding: 20px;
 }
 confmenu
@@ -201,6 +201,7 @@ background-color: white;
 width: 195px;
 }
 body {
+  background-image:url(http://5b0988e595225.cdn.sohucs.com/images/20180912/1f48f7796c0e4a4bb9c5a10b08f93939.gif);
   margin-bottom: 120px;
 }
 
